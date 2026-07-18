@@ -61,12 +61,6 @@ I'm a passionate undergraduate who enjoys building modern web applications and s
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=dilshaniimashanew-wp&theme=tokyonight&no-frame=true&column=4)
-
----
-
 ## ✨ Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
